@@ -1,0 +1,56 @@
+body {
+  background-color: cornflowerblue;
+  font-family: Helvetica sans-serif;
+  color: white;
+  margin-left: 20px;
+  margin-right: 150px;
+  line-height: 1.2;
+}
+
+h1 {
+  text-decoration:underline;
+  text-align: center;
+  font-size: 60px;
+  font-weight: bold;
+}
+
+a:hover {
+  color: darkblue;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 40px;
+}
+
+p, footer {
+  font-size: 18px;
+}
+
+#thorpe {
+  width: 40%;
+  height:40%;
+  margin-left: 30%;
+  border-radius: 40%;
+  border: white solid 5px;
+}
+
+img {
+  width: 250px;
+  height:220px;
+  margin:0;
+  padding:0;
+}
+
+div {
+  margin-left:20px;
+  margin-right: 20px;
+  display:inline-block;
+}
+
+footer {
+  font-style: oblique;
+  padding-bottom: 30px;
+  padding-top: 30px;
+
+}
